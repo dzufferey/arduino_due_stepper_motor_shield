@@ -28,3 +28,8 @@ _autosave-*
 # Exported Gerber and Drill files
 *.gbr
 *.drl
+
+# G-Code
+*.nc
+*.gco
+*.gcode
